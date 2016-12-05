@@ -91,6 +91,9 @@ footer {
     }
     small {
         float: left;
+        &.text-danger{
+            font-weight: bold;
+        }
     }
     ul {
         float: right;
